@@ -1,3 +1,6 @@
+# Bluetooth
+bluetooth.device.default_name=Realme Q5
+
 # Display
 ro.vendor.display.svi=1
 vendor.display.svi.config=1
