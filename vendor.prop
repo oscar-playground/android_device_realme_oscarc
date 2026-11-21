@@ -1,5 +1,5 @@
 # Bluetooth
-bluetooth.device.default_name=Realme Q5
+bluetooth.device.default_name=realme Q5
 
 # Display
 ro.vendor.display.svi=1
@@ -7,4 +7,4 @@ vendor.display.svi.config=1
 vendor.display.svi.config_path=/vendor/etc/SVIConfig_4095.xml
 
 # USB
-vendor.usb.product_string=Realme Q5
+vendor.usb.product_string=realme Q5
